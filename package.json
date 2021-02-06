@@ -1,6 +1,6 @@
 {
   "name": "@fjedi/npm-package-template",
-  "version": "1.37.0",
+  "version": "1.38.0",
   "description": "NPM package template",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
@@ -46,7 +46,7 @@
     "@typescript-eslint/eslint-plugin": "4.14.2",
     "@typescript-eslint/parser": "4.14.2",
     "eslint": "7.19.0",
-    "eslint-config-airbnb-typescript": "12.0.0",
+    "eslint-config-airbnb-typescript": "12.3.1",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-prettier": "3.3.1",
