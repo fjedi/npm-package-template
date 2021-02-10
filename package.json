@@ -1,6 +1,6 @@
 {
   "name": "@fjedi/npm-package-template",
-  "version": "1.41.0",
+  "version": "1.42.0",
   "description": "NPM package template",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
@@ -56,7 +56,7 @@
     "prettier": "2.2.1",
     "rimraf": "3.0.2",
     "ts-jest": "26.5.1",
-    "typescript": "4.1.4"
+    "typescript": "4.1.5"
   },
   "lint-staged": {
     "*.(js|jsx|ts|tsx)": [
